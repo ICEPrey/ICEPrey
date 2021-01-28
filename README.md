@@ -1,3 +1,2 @@
-![](https://github-readme-stats.vercel.app/api?username=ICEPrey&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICEPrey&layout=compact)](https://github.com/ICEPrey/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=ICEPrey&count_private=true&show_icons=true&theme=merko)
 **Discord**: <a href="https://discord.com/users/256973318588989440/profile">ICEPrey#0001</a>
